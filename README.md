@@ -12,4 +12,4 @@ so,
 
 hackers realize, kiddies memorize.
 
-currently working on swe. ~ contact:mustafamuratpolat@gmail.com
+currently working as swe. ~ contact:mustafamuratpolat@gmail.com
