@@ -12,4 +12,4 @@ so,
 
 hackers realize, kiddies memorize.
 
-currently working as swe. ~ contact:mustafamuratpolat@gmail.com
+currently working as ai engineer ~ contact:mustafamuratpolat@gmail.com
