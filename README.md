@@ -1,6 +1,6 @@
 <h1>Mustafa Murat Polat</h1>
 
-Enrolled in computer science, I specialized in artificial intelligence and can work with Spring Boot, React, Node.js Express ; related structured & non-structured query languages.
+Enrolled in computer science, I specialized in artificial intelligence.
 
 Also run a YouTube channel, i am the founder of the "Siber Güvenlik Akademisi" platform.
 
